@@ -4,7 +4,7 @@ Personal Blocklist(not by google) Rules
 Including trash web sites(SEO optimization likes cdmana.com) in Google Search.
 
 
-屏蔽谷歌中文搜索结果中SEO 优化网站（垃圾网站）。
+屏蔽谷歌中文搜索结果中SEO 优化网站（垃圾网站），比如 XX 知识网。
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
