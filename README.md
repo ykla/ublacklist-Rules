@@ -4,7 +4,7 @@ Personal Blocklist(not by google) Rules
 
 Anti 内容农场 in google
 
-Including trash web sites(SEO optimization likes cdmana.com) in Google Search.
+Including trash web sites (SEO optimization likes cdmana.com) in Google Search.
 
 
 屏蔽谷歌中文搜索结果中 SEO 优化网站（垃圾网站\内容农场），比如 XX 知识网。
