@@ -9,7 +9,7 @@ Including trash web sites (SEO optimization likes cdmana.com) in Google Search.
 
 屏蔽谷歌中文搜索结果中 SEO 优化网站（垃圾网站\内容农场），比如 XX 知识网。
 
-注意！包含类似 CSDN 等无效中文网站。
+注意！包含类似 CSDN 等无效中文网站。（注意，这并非否认其价值，而是因为出于节能）
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
