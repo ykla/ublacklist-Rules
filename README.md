@@ -1,6 +1,8 @@
-# Personal-Google-Blocklist-Rules
+# ublacklist-Blocklist-Rules
 
-Personal Blocklist(not by google) Rules
+ublacklist Rules
+
+推荐使用：<https://chromewebstore.google.com/detail/ublacklist/>
 
 Anti 内容农场 in google
 
