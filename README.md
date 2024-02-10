@@ -1,4 +1,4 @@
-# ublacklist-Blocklist-Rules
+# ublacklist-Rules
 
 ublacklist Rules
 
